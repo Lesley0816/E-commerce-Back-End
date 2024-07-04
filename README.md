@@ -2,11 +2,6 @@
 
 This project is a backend for an e-commerce website built with Express.js, Sequelize, and MySQL. It provides API routes for managing categories, products, and tags, and includes functionality for creating, updating, and deleting data.
 
-## Table of Contents
-- Installation(#installation)
-- Usage(#usage)
-- License(#license)
-
 ## Installation
 
 Clone the repository:
